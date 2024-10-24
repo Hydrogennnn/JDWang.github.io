@@ -1,6 +1,8 @@
-## Hi there! 👋
+## Hi there! 
 
 <img class="avatar" src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortCurly&accessoriesType=Prescription02&hairColor=Black&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Happy&eyebrowType=DefaultNatural&mouthType=Default&skinColor=Pale" alt="avatar">
+
+![image-20241024111759517](./_index.assets/image-20241024111759517.png)
 
 Hey, I'm Maverick - a minimal template. Maverick is a minimal Hugo blog theme base on Listed by Ronalds Vilciņš.
 
